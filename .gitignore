@@ -1,0 +1,27 @@
+# node
+node_modules/
+
+# python
+__pycache__/
+*.pyc
+
+# env
+.env
+.env.*
+
+# mac/windows
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# dataset-uri
+DataSets/
+
+# mobile app 
+mobile-app/
